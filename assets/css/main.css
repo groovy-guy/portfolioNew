@@ -1608,7 +1608,7 @@ section,
   left: 0;
   right: 0;
   padding: 25px;
-  background: linear-gradient(to top, rgb(255 255 255 / 80%) 0%, rgb(255 255 255 / 40%) 90%, rgba(0, 0, 0, 0) 100%)
+  background: linear-gradient(to top, rgb(255 255 255 / 90%) 0%, rgb(255 255 255 / 50%) 90%, rgba(0, 0, 0, 0) 100%);
   z-index: 3;
   transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1);
   transform: translateY(20px);
